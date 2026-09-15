@@ -597,11 +597,11 @@ Published in *Generative AI for Biomedical and Smart Health Informatics.*
 
 **Email:** [Neeleshchoursiya0786@gmail.com](mailto:Neeleshchoursiya0786@gmail.com)
 
-**LinkedIn:** `Add your LinkedIn URL`
+**LinkedIn:** `linkedin.com/in/neeleshsinghchoursiya`
 
-**Portfolio:** `Add your Portfolio URL`
+**Portfolio:** `https://neelesh-portfolio-ruby.vercel.app/`
 
-**GitHub:** `Add your GitHub URL`
+**GitHub:** `https://github.com/Neeleshsingh30/  `
 
 ---
 
