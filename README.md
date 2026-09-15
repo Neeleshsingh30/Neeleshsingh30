@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# 👋 Welcome! I'm Neelesh Singh
+### AI Engineer | Generative AI, RAG Systems & Machine Learning Specialist
 <!--
 **Neeleshsingh30/Neeleshsingh30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
