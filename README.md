@@ -1,20 +1,23 @@
 <!-- ============ BANNER ============ -->
+<h1 align="center">Hi 👋, I'm Neelesh Singh</h1>
+<h3 align="center">AI / ML Engineer • Generative AI • RAG & LLM Systems</h3>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Neelesh%20Singh&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Generative%20AI%20%E2%80%A2%20RAG%20%26%20LLM%20Systems&descAlignY=58&descSize=18&animation=fadeIn" alt="header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=&fontSize=0&animation=fadeIn" alt="header banner" width="100%" />
 </p>
 
 <!-- ============ TYPING ANIMATION ============ -->
 <p align="center">
-  <a href="https://github.com/NEELESH_GITHUB_USERNAME">
+  <a href="https://github.com/Neeleshsingh30">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+Production-Grade+RAG+Systems;Engineering+LLM-Powered+Applications;Transformers%2C+Attention+%26+Fine-tuning;From+Notebook+to+Deployed+API" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- ============ PROFILE BADGES ============ -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NEELESH_GITHUB_USERNAME&label=Profile%20Views&color=00d4ff&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/NEELESH_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=ff69b4" alt="Followers" />
-  <a href="https://linkedin.com/in/NEELESH_LINKEDIN_SLUG">
+  <img src="https://komarev.com/ghpvc/?username=Neeleshsingh30&label=Profile%20Views&color=00d4ff&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Neeleshsingh30?label=Followers&style=for-the-badge&color=ff69b4" alt="Followers" />
+  <a href="https://www.linkedin.com/in/neeleshsinghchoursiya/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:Neeleshchoursiya0786@gmail.com">
@@ -118,7 +121,10 @@ An end-to-end **modular RAG system built from scratch** — not a LangChain quic
 - **Decoupled two-service architecture:** FastAPI backend exposing the RAG pipeline over REST + independently deployed Streamlit frontend (Render + Streamlit Cloud).
 - **Production debugging, end-to-end:** swapped the PyTorch embedding model for a lightweight **ONNX** alternative, fixed model caching to load embeddings **once at startup**, and resolved dependency, memory, ingestion and retrieval failures via server-log and traceback analysis.
 
-<p align="left"><a href="PROJECT_LINK_HERE"><img src="https://img.shields.io/badge/View%20Repository-00D4FF?style=for-the-badge&logo=github&logoColor=black" /></a></p>
+<p align="left">
+  <a href="https://github.com/Neeleshsingh30/RAG-BASED-CHATBOT"><img src="https://img.shields.io/badge/View%20Repository-00D4FF?style=for-the-badge&logo=github&logoColor=black" /></a>
+  <a href="https://rag-based-chatbot-nsc30.streamlit.app/"><img src="https://img.shields.io/badge/Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -131,7 +137,10 @@ An end-to-end ML system for **sales forecasting and demand planning**.
 - Implemented a **Collaborative Filtering** recommender using customer–product purchase matrix transformations for personalized recommendations.
 - Served predictions and analytical metrics through **FastAPI + Pydantic REST APIs**, collaborating with frontend/fullstack devs on API contracts, model I/O schemas, and database integration.
 
-<p align="left"><a href="PROJECT_LINK_HERE"><img src="https://img.shields.io/badge/View%20Repository-00D4FF?style=for-the-badge&logo=github&logoColor=black" /></a></p>
+<p align="left">
+  <a href="https://github.com/Neeleshsingh30/pc_sales"><img src="https://img.shields.io/badge/View%20Repository-00D4FF?style=for-the-badge&logo=github&logoColor=black" /></a>
+  <a href="https://pc-sales.vercel.app/login"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -148,27 +157,27 @@ An end-to-end ML system for **sales forecasting and demand planning**.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NEELESH_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NEELESH_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Neeleshsingh30&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Neeleshsingh30&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEELESH_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neeleshsingh30&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NEELESH_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Neeleshsingh30&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Trophies" />
 </p>
 
 ---
 
 ## 📜 Research & Publications
 
-> 📄 **AI-Based Smart Education Enhanced the Learning of Students** — *IEEE Xplore* · [Read](PAPER_LINK_HERE)
+> 📄 **AI-Based Smart Education Enhanced the Learning of Students** — *IEEE Xplore* · [Read](https://share.google/0IZ7VF1MFdo1LOwCO)
 
-> 📘 **AI-ML in Marketing** — chapter in *AI Marketing and Ethical Considerations in Consumer Engagement*
+> 📘 **AI-ML in Marketing** — chapter in *AI Marketing and Ethical Considerations in Consumer Engagement* (IGI Global) · [Read](https://share.google/nbJGUYHuKZiFUnkFS)
 
-> 📗 **Tackling Complexities of Federated Learning** — chapter in *Generative AI for Biomedical and Smart Health Informatics*
+> 📗 **Tackling the Complexities of Federated Learning** — chapter in *Generative AI for Biomedical and Smart Health Informatics* (Wiley-IEEE Press) · [Read](https://share.google/33tiuf2uxcnFaKMZg)
 
 ---
 
@@ -189,16 +198,16 @@ An end-to-end ML system for **sales forecasting and demand planning**.
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/NEELESH_LINKEDIN_SLUG" target="_blank">
+  <a href="https://www.linkedin.com/in/neeleshsinghchoursiya/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:Neeleshchoursiya0786@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/NEELESH_GITHUB_USERNAME">
+  <a href="https://github.com/Neeleshsingh30">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="PORTFOLIO_LINK_HERE">
+  <a href="https://neelesh-portfolio-ruby.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
   </a>
 </p>
