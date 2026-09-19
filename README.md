@@ -1,6 +1,6 @@
 <!-- ============ BANNER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Neelesh%20Singh&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Generative%20AI%20%E2%80%A2%20RAG%20%26%20LLM%20Systems&descAlignY=58&descSize=18&animation=fadeIn" alt="header banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Neelesh%20Singh&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Generative%20AI%20%E2%80%A2%20RAG%20and%20LLM%20Systems&descAlignY=58&descSize=18&animation=fadeIn" alt="header banner" width="100%" />
 </p>
 
 <!-- ============ TYPING ANIMATION ============ -->
